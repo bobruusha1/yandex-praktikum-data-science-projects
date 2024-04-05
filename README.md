@@ -115,7 +115,7 @@ The model helped to optimize production in order not to launch a plant with unpr
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/01-yandex-music">Yandex Music</a></td>
+    <td><a href="https://github.com/bobruusha1/yandex-praktikum-data-science-projects/tree/6041b1b28fb00d9efcdf4fb7d6b6746e4659e267/01.%20Fundamentals%20of%20Python%20and%20data%20analysis">Yandex Music</a></td>
     <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
     <td>Python, Pandas, Numpy</td>
   </tr>
