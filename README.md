@@ -20,6 +20,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=30%>Used libraries</td>
   </tr>
         <tr>
+<!-- 
     <td>16</td>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
     <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
@@ -38,6 +39,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
   </tr>
   <tr>
+ -->
     <td>13</td>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
     <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
